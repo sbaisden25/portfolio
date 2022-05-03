@@ -13,9 +13,6 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
-.cent {
-  text-align: center;
-} 
 /* Sections
    ========================================================================== */
 
@@ -93577,8 +93574,4 @@ video {
   .xl\:animate-bounce {
     animation: bounce 1s infinite;
   }
-}
-
-.cent {
-  text-align: center;
 }

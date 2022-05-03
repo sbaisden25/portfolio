@@ -12,7 +12,7 @@ const ProjectCard = ({ project: { title, description, tags, link } }) => {
         </h1>
       </a>
       <hr className="my-4" />
-      <p className="cent">{description}</p>
+      <p align="center">{description}</p>
       <div className="mt-4 mb-8 flex flex-wrap justify-center items-center gap-2">
         {tags.map((tag) => (
           <div className="px-4 py-1 border-2 rounded-full">{tag}</div>
