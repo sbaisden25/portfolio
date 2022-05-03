@@ -1,4 +1,3 @@
-# react-tailwind-portfolio
+# react-portfolio
 
-👨‍🎨 An open-source portfolio template built with React and Tailwind.
-
+![alt text :P](https://github.com/sbaisden25/portfolio/blob/main/public/images/Screenshot_9.png)
