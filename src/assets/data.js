@@ -37,7 +37,7 @@ const data = {
   projects: [
     {
       title: "Podcast Guest Directory",
-      description: "🔋 A podcast guest directory built with Python and Django 🎙",
+      description: "🎙 A podcast guest directory built with Python and Django 🔋",
       tags: [
         "python",
         "django",
@@ -48,7 +48,7 @@ const data = {
     },
     {
       title: "Artist Popularity Game",
-      description: "🪐 My portfolio built with NextJS and TailwindCSS 🎧",
+      description: "🎧 My portfolio built with NextJS and TailwindCSS 🪐",
       tags: [
         "javascript",
         "react",
