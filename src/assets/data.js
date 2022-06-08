@@ -36,6 +36,17 @@ const data = {
   ],
   projects: [
     {
+      title: "Ezbulk.org",
+      description: "💪 Explore the cost efficiency of food products 💵",
+      tags: [
+        "javascript",
+        "react",
+        "node",
+        "mongodb"
+      ],
+      link: "https://www.ezbulk.org/"
+    },
+    {
       title: "Podcast Guest Directory",
       description: "🎙 A podcast guest directory built with Python and Django 🔋",
       tags: [
@@ -48,7 +59,7 @@ const data = {
     },
     {
       title: "Artist Popularity Game",
-      description: "🎧 My portfolio built with NextJS and TailwindCSS 🪐",
+      description: "🎧 Guess the artist with more listeners 🪐",
       tags: [
         "javascript",
         "react",
@@ -56,17 +67,6 @@ const data = {
         "tailwindcss"
       ],
       link: "https://github.com/sbaisden25/rap-battle"
-    },
-    {
-      title: "Virtual MIDI Pad",
-      description: "🎹 A virtual MIDI pad that lets you make beats like Kanye 🎼",
-      tags: [
-        "javascript",
-        "react",
-        "node",
-        "express"
-      ],
-      link: "https://github.com/sbaisden25/kanye-play"
     },
     {
       title: "Curious Cure API",
